@@ -10,9 +10,10 @@
 	</parent>
 	<groupId>com.zhaihao</groupId>
 	<artifactId>accounting</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>accounting</name>
 	<description>accounting</description>
+	<packaging>pom</packaging>
 	<url/>
 	<licenses>
 		<license/>
